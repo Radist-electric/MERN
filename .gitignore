@@ -2,6 +2,7 @@
 node_modules
 /dist
 /config/default.json
+/client/node_modules
 
 # cache files
 .cache
