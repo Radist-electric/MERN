@@ -8,6 +8,9 @@
 .mr-10 {
   margin-right: 10px;
 }
+.pl-10 {
+  padding-left: 10px;
+}
 .loader {
   display: flex;
   justify-content: center;
